@@ -1,0 +1,11 @@
+Model Information:
+* title:	Water Lilies (Agapanthus) - Claude Monet
+* source:	https://sketchfab.com/3d-models/water-lilies-agapanthus-claude-monet-e9c28c48229943778b38a03056f17395
+* author:	Thomas Flynn (https://sketchfab.com/nebulousflynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Water Lilies (Agapanthus) - Claude Monet" (https://sketchfab.com/3d-models/water-lilies-agapanthus-claude-monet-e9c28c48229943778b38a03056f17395) by Thomas Flynn (https://sketchfab.com/nebulousflynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Un dia a la platja, Museu Joan Abelló
+* source:	https://sketchfab.com/3d-models/un-dia-a-la-platja-museu-joan-abello-8b0cc77ba33d467fa1cff58db6d198c8
+* author:	Giravolt (https://sketchfab.com/giravolt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Un dia a la platja, Museu Joan Abelló" (https://sketchfab.com/3d-models/un-dia-a-la-platja-museu-joan-abello-8b0cc77ba33d467fa1cff58db6d198c8) by Giravolt (https://sketchfab.com/giravolt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

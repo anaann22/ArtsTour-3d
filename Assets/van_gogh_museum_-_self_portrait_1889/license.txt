@@ -1,0 +1,11 @@
+Model Information:
+* title:	Van Gogh Museum - Self Portrait 1889
+* source:	https://sketchfab.com/3d-models/van-gogh-museum-self-portrait-1889-78d0beccab314718a075e5880ae310e1
+* author:	Crazymaverickdc (https://sketchfab.com/Crazymaverickdc)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Van Gogh Museum - Self Portrait 1889" (https://sketchfab.com/3d-models/van-gogh-museum-self-portrait-1889-78d0beccab314718a075e5880ae310e1) by Crazymaverickdc (https://sketchfab.com/Crazymaverickdc) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

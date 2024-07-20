@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paul Cezanne - Still life w Apples (1878)
+* source:	https://sketchfab.com/3d-models/paul-cezanne-still-life-w-apples-1878-7bd82995a0f54d298312fb838bbf5194
+* author:	Specterras (https://sketchfab.com/specterras)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paul Cezanne - Still life w Apples (1878)" (https://sketchfab.com/3d-models/paul-cezanne-still-life-w-apples-1878-7bd82995a0f54d298312fb838bbf5194) by Specterras (https://sketchfab.com/specterras) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

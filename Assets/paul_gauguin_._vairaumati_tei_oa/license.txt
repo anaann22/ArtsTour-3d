@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paul Gauguin . Vairaumati Tei Oa
+* source:	https://sketchfab.com/3d-models/paul-gauguin-vairaumati-tei-oa-49209336ef6b4dd8965f26c35edc6b6c
+* author:	mfb64 (https://sketchfab.com/mfb64)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paul Gauguin . Vairaumati Tei Oa" (https://sketchfab.com/3d-models/paul-gauguin-vairaumati-tei-oa-49209336ef6b4dd8965f26c35edc6b6c) by mfb64 (https://sketchfab.com/mfb64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
